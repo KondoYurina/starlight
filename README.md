@@ -94,12 +94,22 @@ StarlightはGitHubを利活用したプロボノ・イノベーションです�
 
 プロボノを希望するIT技術者で、自分が活動したいISSUEを見つけた場合には、ISSUEへのコメントとして、活動希望内容を記述してください。  
 その際、自分の.mdファイルを以下の形式でLINKするようにして下さい。  
-[自己紹介](https://github.com/Lily-na/starlight/blob/gh-pages/XXXXXX.md)
+```
+[自己紹介](https://github.com/Lily-na/starlight/blob/gh-pages/your git ID.md)
+```
   
 支援を希望する福祉施設・障害者・ＮＰＯ／ＮＧＯ等の方が、支援を受けたい人をWIKI上で見つけた場合には、Wiki上のメールアドレスに直接連絡とってください。その際、ISSUE番号を必ず明記して下さい。
 
+##活動開始
 
+活動を開始時に、開発をするRepositoryをissueへのコメントで書き込んで下さい。
+```
+[開発用のrepository](https://github.com/your git ID/repository name.git)
+```
 
+##活動終了
+
+活動青果物が出来上がった際は、利用者は感謝の意を表するとともに、ISSUEをCLOSEしてください。
 
 ## Requirement
 
