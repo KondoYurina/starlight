@@ -1,9 +1,9 @@
-###　久保田一成  
+###　ＫａｚＫｕｂｏｔａ  
 -----  
   
 ####プロフィール  
 ##### Github ID uwoto
-##### lazytabitha@gmail.cm
+##### xxxxxxxx@gmail.cm
 -----
 ##### 概要  
 
